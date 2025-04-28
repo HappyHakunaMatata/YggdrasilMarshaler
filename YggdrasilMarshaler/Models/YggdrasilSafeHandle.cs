@@ -46,13 +46,6 @@ namespace YggdrasilMarshaler.Models
             }
             return Marshal.PtrToStringUTF8(handle);
         }
-
-     
-
-        ~YggdrasilSafeHandle()
-        {
-            Dispose(disposing: false);
-        }
     }
 }
 
