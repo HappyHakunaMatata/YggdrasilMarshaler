@@ -52,3 +52,9 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+YggdrasilMarshaler/.DS_Store
+.DS_Store
+*.dll
+*.dylib
+*.so
+.vs/
